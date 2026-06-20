@@ -207,6 +207,9 @@ Power-BI-Dashboard-png/              # Power BI dashboard
 Python Script/                      # Script
     Hospital Management Reports.ipynb
 
+SQL Quries/                         # Solved Quries   
+    Solved SQL Quries.sql
+
 Readme.md
 
 ```
